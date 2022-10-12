@@ -26,6 +26,7 @@ Cryptocurrency scam, fraud and theft reporting list.
 ## Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.
 
 -   [Greysafe](https://greysafe.com)
+
 GreySafe is a community-driven crypto threat actor reporting service that takes submissions from all chains and focuses on validating and attributing them accurately.
 
 | Website        | https://greysafe.com                                                                                  |
