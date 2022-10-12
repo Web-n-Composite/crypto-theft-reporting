@@ -6,10 +6,10 @@ Cryptocurrency scam, fraud and theft reporting list.
 
 + [Greysafe](https://greysafe.com)
 + [Chainabuse](https://chainabuse.com)
-+ Scam Alert
-+ Scan Blocks
-+ Bitcoin Abuse DB
-+ Crypto Scam DB
++ [Scam Alert](https://scam-alert.io/)
++ [Scan Blocks](https://scanblocks.io/index)
++ [Bitcoin Abuse DB](https://www.bitcoinabuse.com/)
++ [Crypto Scam DB](https://cryptoscamdb.org/)
 
 ## Government Enforcement Platforms
 
