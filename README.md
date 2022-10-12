@@ -30,7 +30,6 @@ Cryptocurrency scam, fraud and theft reporting list.
 GreySafe is a community-driven crypto threat actor reporting service that takes submissions from all chains and focuses on validating and attributing them accurately.
 
 | Website        | https://greysafe.com                                                                                  |
-|----------------|-------------------------------------------------------------------------------------------------------|
 | Socials        | https://twitter.com/thegreysafe https://discord.gg/u3WZnmFAvF https://www.reddit.com/r/scam_radar     |
 | File a report  | https://greysafe.com/file_report                                                                      |
 | Owner          | Blackworks.io                                                                                         |
