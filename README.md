@@ -1,9 +1,8 @@
-# crypto-reporting
+# Cryptocurrency Theft, Fraud and Scam Reporting Services
 
+Cryptocurrency scam, fraud and theft reporting list.
 
-Cryptocurrency theft, scam and fraud reporting list.
-
-# Private Sector Platforms
+## Private Sector Platforms
 
 + Greysafe
 + Chainabuse
