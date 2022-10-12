@@ -35,7 +35,7 @@ GreySafe is a community-driven crypto threat actor reporting service that takes 
 | File a report  | https://greysafe.com/file_report                                                                      |
 | Owner          | Blackworks.io                                                                                         |
 | Review Process | Submitted data is made available to law enforcement, governments, journalists and the general public. |
- |\
+
 ![](https://lh5.googleusercontent.com/54nyKPPPko5rqByrvwndKeRaDqolXHi2If6vnyFwJaYjqXBVCKtchOjPu4S16l9jx9fM5em4CipyCL1BfuMGQ5qxVZp0gRZWH8KPH0UrH_Esxarkl8K8nQXiGozkiM-PRqNR-2Yv6dycBLzOuLXWHo0aTH9hiimh17w84NGXg73o0tW0MIj_kUugtA)
 
 -   [Chainabuse](https://www.chainabuse.com/)
