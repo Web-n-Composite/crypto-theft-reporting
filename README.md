@@ -13,12 +13,21 @@ Cryptocurrency scam, fraud and theft reporting list.
 
 ## Government Enforcement Platforms
 
-+ Action Fraud (UK Police)
-+ Federal Trade Commission (US)
-+ Commodities Futures Trading Commission (US)
-+ U.S. Securities and Exchange Commission (US)
-+ FBI Internet Crime Complaint Center (US)
-+ Citizens Advice Bureau (UK)
-+ National Cyber Security Centre (UK)
-+ National Fraud Intelligence Bureau (UK)
-+ Financial Conduct Authority (UK)
+-   [Action Fraud (UK Police)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
+
+-   [Federal Trade Commission(US)](https://consumer.ftc.gov/scams)
+
+-   [Commodities Futures Trading Commission](https://www.cftc.gov/check) (US)
+
+-   [U.S. Securities and Exchange Commission](https://www.sec.gov/) (US)
+
+-   [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice) (US)
+
+-   [Citizens Advice Bureau](https://www.citizensadvice.org.uk/) (UK)
+
+-   [National Cyber Security Centre](https://www.ncsc.gov.uk/) (UK)
+
+-   [National Fraud Intelligence Bureau (](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)UK)
+
+-   F[inancial Conduct Authority ](https://www.fca.org.uk/)(UK)
+
