@@ -58,60 +58,14 @@ Chainabuse is a multi-chain community on a mission to enable a safer web3 space 
 
 A powerful and popular blockchain analytics engine that tracks and analyzes millions of blockchain transactions every day
 
-|
-
-Website
-
- |
-
-https://scam-alert.io/
-
- |
-|
-
-Socials
-
- |
-
-https://twitter.com/whale_alert
-
- |
-|
-
-File a report
-
- |
-
-https://scam-alert.io/#scamcheck
-
- |
-|
-
-Database Size
-
- |
-
-130k
-
- |
-|
-
-Owner
-
- |
-
-Whale Alert
-
- |
-|
-
-Review Process
-
- |
-
-Blockchain crime experts work closely with law enforcement and consumer protection initiatives.
-
- |\
+|                |                                                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------|
+| Website        | https://scam-alert.io/                                                                          |
+| Socials        | https://twitter.com/whale_alert                                                                 |
+| File a report  | https://scam-alert.io/#scamcheck                                                                |
+| Database Size  | 130k                                                                                            |
+| Owner          | Whale Alert                                                                                     |
+| Review Process | Blockchain crime experts work closely with law enforcement and consumer protection initiatives. |
 ![](https://lh4.googleusercontent.com/IDYTwH-spUNhX8TbYYOEIjOjuZqPkg5AiiqXQJiyYOdk0jNyshsyuxN2O4grSCl6FgEmupR7SwuFMnN_stWFBVtROfmPeQohzy9DRQ0kw6AQD9MV_x1Hw4DPf2_vvlZK9PQJrPgVgeYE6vmra93vcZGnl7y5_elrezMjLMaQbuVquWrqngCuEQSKzw)
 
 -   [Scan Blocks](https://scanblocks.io/index)
