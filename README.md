@@ -43,62 +43,14 @@ GreySafe is a community-driven crypto threat actor reporting service that takes 
 
 Chainabuse is a multi-chain community on a mission to enable a safer web3 space and build the largest trust network in crypto around the globe.
 
-|
-
-Website
-
- |
-
-https://www.chainabuse.com/
-
- |
-|
-
-Socials
-
- |
-
-https://twitter.com/chainabuse
-
-https://discord.com/invite/NdH58RY9Pu
-
- |
-|
-
-File a report
-
- |
-
-https://www.chainabuse.com/report
-
- |
-|
-
-Database Size
-
- |
-
-220k
-
- |
-|
-
-Owner
-
- |
-
-TRM Labs
-
- |
-|
-
-Review Process
-
- |
-
-Flagged reports are reviewed by the Global Investigations team, which is composed of former agents from the FBI, U.S. Secret Service, IRS-CI
-
- |
+|                |                                                                                                                                              |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Website        | https://www.chainabuse.com/                                                                                                                  |
+| Socials        | https://twitter.com/chainabuse https://discord.com/invite/NdH58RY9Pu                                                                         |
+| File a report  | https://www.chainabuse.com/report                                                                                                            |
+| Database Size  | 220k                                                                                                                                         |
+| Owner          | TRM Labs                                                                                                                                     |
+| Review Process | Flagged reports are reviewed by the Global Investigations team, which is composed of former agents from the FBI, U.S. Secret Service, IRS-CI |
 
 ![](https://lh5.googleusercontent.com/EkcILHXeoaMZpaZiJ8FeUnTiGua-I9MZwSqvh1dEPtu8LuMxsPfS9MVGUooU85i9gww8lHqyMuZCIrbQokRmL_CR67nNi2zcuSuzmE9Dwg7ZLWY2ltO-LHvtZ7NXt_i29l3o8CZDgg4LQ8T3x67qOjF1CrrH2VnbZWr4qFOPTqIYfNNoG1SIWBttVQ)
 
