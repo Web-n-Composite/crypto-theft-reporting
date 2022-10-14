@@ -94,6 +94,7 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 | Database Size  | 300k                                                                                                   |
 | Owner          | BitcoinAbuse.com                                                                                       |
 | Review Process | In order to protect the integrity of the BitcoinAbuse database we will not remove or edit any reports. |
+
 ![](https://lh5.googleusercontent.com/kUM09KSpGtcBWcFOdm1sjOwRKsbhvw3r2n3SjOPvX1MXilu52XEavaqq_pHMwvTuB6bfNTjdxoLEPK9l4fNuu2KQYYsNYMFY8sqQMlZ2GfQIdKEg0VYpAY0o-fBhLFOysLjErOZwnV1ikOjAprh4nLNLsyBqFgLDHxJ7L8JPPUB-i3L9RJTyT16t5g)
 
 -   [CryptoScamDB](https://cryptoscamdb.org/)
