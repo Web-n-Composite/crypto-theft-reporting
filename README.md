@@ -73,60 +73,14 @@ A powerful and popular blockchain analytics engine that tracks and analyzes mill
 
 Lookup a blockchain address to verify it is not associated with a known scammer, hacker, ransomware, blackmailer or fraudster BEFORE you send funds to it.
 
-|
-
-Website
-
- |
-
-https://scanblocks.io/index
-
- |
-|
-
-Plugin
-
- |
-
-https://chrome.google.com/webstore/detail/scanblocksio/lhfdcimeglabmigcifnhkjkehgagnhnj/
-
- |
-|
-
-File a report
-
- |
-
-https://scanblocks.io/submit/index
-
- |
-|
-
-Database Size
-
- |
-
-310k
-
- |
-|
-
-Owner
-
- |
-
-Clockwork Venture
-
- |
-|
-
-Review Process
-
- |
-
-Report addresses to add them to the public dataset.  When you report an address, you must select the blockchain, copy and paste the address, and indicate your reason for report.
-
- |
+|                |                                                                                                                                                                                   |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website        | https://scanblocks.io/index                                                                                                                                                       |
+| Socials        | https://chrome.google.com/webstore/detail/scanblocksio/lhfdcimeglabmigcifnhkjkehgagnhnj/                                                                                          |
+| File a report  | https://scanblocks.io/submit/index                                                                                                                                                |
+| Database Size  | 310k                                                                                                                                                                              |
+| Owner          | Clockwork Venture                                                                                                                                                                 |
+| Review Process | Report addresses to add them to the public dataset.  When you report an address, you must select the blockchain, copy and paste the address, and indicate your reason for report. |
 
 ![](https://lh5.googleusercontent.com/m0FY9D9-edweQNO4ZACjLWkxNMvw_K1oc0JYLfa7UPDJjD9Gze8ryovDD9I0_G9g2W2q3KWWHgRbzLLsZHMDCpCXCN9tyJWy7El-_bF3vUVpCUXXCQ1Zds8ciaVjF7_XGwxn1t1zMTUuDntAyyoZj5Vm_C3wNy3DpC4VDKwUSIU24a3AJBXPk3ubQQ)
 
