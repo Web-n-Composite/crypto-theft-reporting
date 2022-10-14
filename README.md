@@ -98,60 +98,15 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 -   [CryptoScamDB](https://cryptoscamdb.org/)
 
-|
+|                |                                                                                                                                                                                                                                           |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website        | cryptoscamdb.org                                                                                                                                                                                                                          |
+| Socials        | twitter.com/cryptoscamdb                                                                                                                                                                                                                  |
+| File a report  | https://cryptoscamdb.org/report                                                                                                                                                                                                           |
+| Database Size  | 9,221                                                                                                                                                                                                                                     |
+| Owner          | MyCrypto                                                                                                                                                                                                                                  |
+| Review Process | Team members at MyCrypto do an initial scan of the raw reports before adding a website or address to the dataset. One reason we protect the raw reports is because they sometimes include sensitive, personal, or irrelevant information. |
 
-Website
-
- |
-
-cryptoscamdb.org
-
- |
-|
-
-Socials
-
- |
-
-twitter.com/cryptoscamdb
-
- |
-|
-
-File a report
-
- |
-
-https://cryptoscamdb.org/report
-
- |
-|
-
-Database Size
-
- |
-
-9,221
-
- |
-|
-
-Owner
-
- |
-
-MyCrypto
-
- |
-|
-
-Review Process
-
- |
-
-Team members at MyCrypto do an initial scan of the raw reports before adding a website or address to the dataset. One reason we protect the raw reports is because they sometimes include sensitive, personal, or irrelevant information.
-
- |\
 ![](https://lh5.googleusercontent.com/u3WxRMH7IQf1nY_UGSMTyH6w5lIyz4bx4p1oNgMUNNksY9GEDwbhidQsKZZ7JlV3wKpJ-rcMNnRKReJJZffB9bxsuQcnM-SWUP761jqa5NZoGXoGOxoaDsFh2VDheNE6YPiU3Gh1WEXN_5W_8rIGnhunUC1Y5FNNFWBI8LeLPL_D_DYpIaqNkyTyVQ)
 
 -   Crypto Blacklist
