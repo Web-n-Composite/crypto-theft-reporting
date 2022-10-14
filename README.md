@@ -111,116 +111,27 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 -   Crypto Blacklist
 
-|
-
-Website
-
- |
-
-https://www.cryptoblacklist.io/en/
-
- |
-|
-
-Socials
-
- |
-
-https://twitter.com/cryptoblackls
-
- |
-|
-
-File a report
-
- |
-
-https://www.cryptoblacklist.io/en/file-report/
-
- |
-|
-
-Database Size
-
- |
-
-36,497
-
- |
-|
-
-Owner
-
- |
-
-CryptoBlacklist
-
- |
-|
-
-Review Process
-
- |
-
-Reports can be submitted and will not be removed or edited
-
- |
+|                |                                                            |
+|----------------|------------------------------------------------------------|
+| Website        | https://www.cryptoblacklist.io/en/                         |
+| Socials        | https://twitter.com/cryptoblackls                          |
+| File a report  | https://www.cryptoblacklist.io/en/file-report/             |
+| Database Size  | 36,497                                                     |
+| Owner          | CryptoBlacklist                                            |
+| Review Process | Reports can be submitted and will not be removed or edited |
 
 ![](https://lh6.googleusercontent.com/3FyKNTLwY7icpJJ6PlTwkOORwtuKpROgl7ndb1MTvcCtcgdBADIrPcRv7Yj1722A4y0n4muuNbQbn_DyyxwdGifwKCtjfpIJKkfzwc-PAA_LQApMM1H3cRxRUaE0xWf_cAFfCnab5eXmiFjTcWBcrvMuKN1f8cBJFE4ydWv_lLnCWmPHFLveichCkw)
 
 -   WebRekt
 
-|
-
-Website
-
- |
-
-https://www.web3rekt.com/
-
- |
-|
-
-Socials
-
- |
-
-https://twitter.com/web3rekt_com
-
- |
-|
-
-File a report
-
- |
-
-https://www.web3rekt.com/submit-incident-or-scam
-
- |
-|
-
-Database Size
-
- |\
- |
-|
-
-Owner
-
- |
-
-WebRekt
-
- |
-|
-
-Review Process
-
- |
-
-Your contribution will be maintained in the system as they work on a future reward mechanism for the effort. 
-
- |
+|                |                                                                                                              |
+|----------------|--------------------------------------------------------------------------------------------------------------|
+| Website        | https://www.web3rekt.com/                                                                                    |
+| Socials        | https://twitter.com/web3rekt_com                                                                             |
+| File a report  | https://www.web3rekt.com/submit-incident-or-scam                                                             |
+| Database Size  |                                                                                                              |
+| Owner          | WebRekt                                                                                                      |
+| Review Process | Your contribution will be maintained in the system as they work on a future reward mechanism for the effort. |
 
 ![](https://lh3.googleusercontent.com/6lo9xSjpCxZF_Qd0jUurEkY2r_6nmmN0MgW9Wc8-y0NoBLhcDYZYxj7TcjWnfjkSVLo9KAdYssE2oizlH8v6rCBGx_RHeB2OFB1MbWes6ub_BSw9SJPR_zym4Vny2KgsNm7JUdCEWKNX--9Kc2oo-3Fyb7jHvtVtjTHYR2rkcDV5T4eQDdXDGRt-Rw)
 
