@@ -2,30 +2,30 @@
 
 Cryptocurrency scam, fraud and theft reporting list.
 
+**Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.**
+
 ## Contents
 
 **Private Sector Platforms**
 
-+ [Greysafe](https://greysafe.com)
-+ [Chainabuse](https://chainabuse.com)
-+ [Scam Alert](https://scam-alert.io/)
-+ [Scan Blocks](https://scanblocks.io/index)
-+ [Bitcoin Abuse DB](https://www.bitcoinabuse.com/)
-+ [Crypto Scam DB](https://cryptoscamdb.org/)
++ [Greysafe](#Greysafe)
++ [Chainabuse](#Chainabuse)
++ [Scam Alert](#Scam-alert)
++ [Scan Blocks](#Scan-Blocks)
++ [Bitcoin Abuse DB](#bitcoin-abuse)
++ [Crypto Scam DB](crypto-scam-db)
 
 **Government Platforms**
 
--   [Action Fraud (UK)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
--   [Federal Trade Commission (US)](https://consumer.ftc.gov/scams)
--   [Commodities Futures Trading Commission (US)](https://www.cftc.gov/check) 
--   [U.S. Securities and Exchange Commission (US)](https://www.sec.gov/)
--   [FBI Internet Crime Complaint Center (US)](https://www.ic3.gov/Home/ComplaintChoice)
--   [Citizens Advice Bureau (UK)](https://www.citizensadvice.org.uk/)
--   [National Cyber Security Centre (UK)](https://www.ncsc.gov.uk/)
--   [National Fraud Intelligence Bureau (UK)](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)
--   [Financial Conduct Authority (UK)](https://www.fca.org.uk/)
-
-### Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.
+-   [Action Fraud (UK)](#action-fraud)
+-   [Federal Trade Commission (US)](#federal-trade-commission)
+-   [Commodities Futures Trading Commission (US)](#commodities-futures-trading-commission) 
+-   [U.S. Securities and Exchange Commission (US)](#U.S-Securities-and-Exchange-Commission)
+-   [FBI Internet Crime Complaint Center (US)](#FBI-Internet-Crime-Complaint-Center)
+-   [Citizens Advice Bureau (UK)](#Citizens-Advice-Bureau)
+-   [National Cyber Security Centre (UK)](#National-Cyber-Security-Centre)
+-   [National Fraud Intelligence Bureau (UK)](#National-Fraud-Intelligence-Bureau)
+-   [Financial Conduct Authority (UK)](#Financial-Conduct-Authority)
 
 ## [Greysafe](https://greysafe.com)
 
