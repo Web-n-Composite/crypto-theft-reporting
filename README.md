@@ -2,7 +2,7 @@
 
 Cryptocurrency scam, fraud and theft reporting list.
 
-**Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.**
+**You won't get your money back, the goal here is to help others not lose theirs.**
 
 ## Contents
 
