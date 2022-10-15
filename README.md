@@ -140,34 +140,31 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 
 ## [Action Fraud (UK Police)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
-
 ![](https://lh4.googleusercontent.com/6G45wcU2zVEVdvZv-bjXIxvff8cOCYMR1evG_xeXe8ZIsLn7H2K2mdCHBLfxEnrGDseZAKMhk5NAkvsF8NRXvW3WJvsQBX5KE0nmMqN9Mhy7D7qrenySumbutRos23UE6xiuuJ3YX1ZIulNVH9rNxfcPFjAWlRJB5LyTKHw6twxxuPUS8WJs6SZIOQ)
 
 ## [Federal Trade Commission(US)](https://reportfraud.ftc.gov/#/assistant)
-
 ![](https://lh5.googleusercontent.com/_PWjF-RguqJOX4jWRHfJctd7dTntCGLUyqLVJqVlrBBrdn295O6l9U0XGKxU7XFw9IDw8BpyHSx7cXZklb64mS7w2ux9Ktiu2D_A26MeMtT2IAXHoeacuYmSwTXjCpuJwjGruXN9j4OjYXVi-EKnAEa-ySj0IO6vVNMlCp48dA_uLulOR_U7aDnuRg)
 
 ![](https://lh3.googleusercontent.com/75sck87GhoZ-vfAOUnKrO_Npo2u1H3sgDsJNilHUGqXw7mol5RYMVkkipDMyrV4g7C1eo6lsifWN6OyiEOTgAyLOIUildvW5Fi62JeP_DtlmqUkqyS1WcI2pfEBk8Vc8zlTW1HN_JLmLg97QmL2wXsSPmls-pQELdLMGbL9jfiwIBV1cJVuz0hRkYA)
 
-## [Commodities Futures Trading Commission](https://www.cftc.gov/check) (US)
-
+## [Commodities Futures Trading Commission](https://www.cftc.gov/check)
 ![](https://lh4.googleusercontent.com/LOIkLZFj4G5u0qbHmKR3PsFqR5bCzdo4aT59DrY5nYEBDlJjl325kREhA-ugKRWlMXsHuH4JLJpLhOci4I8g9cvFcqzW9M81QXHtqqGUnUG8wnEOE4795mL8uYY5U51ndsihrQHvbDUCiFLnTYC1SZZR_DNHupQ20Cm_AGHlCT2-SCO4Wg8XwzjUNA)
 
 ## [U.S. Securities and Exchange Commission](https://tcr.sec.gov/TcrExternalWeb/faces/pages/tip-info.jspx) (US)
 
 ![](https://lh6.googleusercontent.com/UdPH5IDcO6VcX1FfmJ6KMbmldd6uPYro-ihmBumgPZ8KMP3HtqUnZ2BoVDXjks-s51b3MTqS9-xDOMflotzda12DFqix0pZtF5e1tQmlbankKo_ebIfUpMN2gTRC3-RVadENfcC7e5Wq6QPXX0GR3c7DMtdi-8UJnU9U4YwO0eLoVCZd3eOfqHcIlA)
 
-## [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice) (US)
-
+## [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice)
 ![](https://lh3.googleusercontent.com/UDyLZ9kajgUsYoNnZef3V_s9aV6skSD2g8Nmrvquw5bgfVhXao3kK0aCg-zbS0GzApvZonuWwhEhlfHZ1j4VTVfiKSFlpJH-heqBqZpUHkI0f4OERTJV_ADBOqH0x5I5mRODmrG009uFYMIAW_fBBc1IcHotRA9cUNnnZEufKGKMhE1AIEwiBojsOA)
 
-##  [Citizens Advice Bureau](https://ssl.datamotion.com/form.aspx?co=3438&frm=scam&to=scamsaction) (UK)
-
+##  [Citizens Advice Bureau](https://ssl.datamotion.com/form.aspx?co=3438&frm=scam&to=scamsaction) 
 ![](https://lh5.googleusercontent.com/RLR9M6sj18uHch82oWaIF4ONVSbjS9XyPYKokjObmWALGY9F6PCSPg6OIYsLd7b-AOzI0t0J_yT6CqKJTBpjuA4TWxsj0KPHbkprc2oCHQzNGrTiLZAA7M2OrZ8OiUYpSUsN-RQ2C60wZsqU6m0mntOPFUYnOQ5BA3YtMKnlKlG_nkvOnI12ufm1Eg)
 
-##  [National Cyber Security Centre](https://www.ncsc.gov.uk/) (UK)![](https://lh3.googleusercontent.com/-Vox88yzEbaYDLtQ-4Y_Lbaa-2EtoXGLl5n--iACa0Q0WBFQfkX7_M397G2TApwia_ugcSR1yKtMkf5sFxV8VVZdwLMiXY4-kTt3mbkqLVvEviZEzTHAhNidSTFiSdtJiHZN5FlPb0LubEWZ7Iiqrk0dmFxHrBXB1HcY34BJVrT7sp2sj-L36DOwvw)
+##  [National Cyber Security Centre](https://www.ncsc.gov.uk/)
+![](https://lh3.googleusercontent.com/-Vox88yzEbaYDLtQ-4Y_Lbaa-2EtoXGLl5n--iACa0Q0WBFQfkX7_M397G2TApwia_ugcSR1yKtMkf5sFxV8VVZdwLMiXY4-kTt3mbkqLVvEviZEzTHAhNidSTFiSdtJiHZN5FlPb0LubEWZ7Iiqrk0dmFxHrBXB1HcY34BJVrT7sp2sj-L36DOwvw)
 
-##  [National Fraud Intelligence Bureau (](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)UK)![](https://lh3.googleusercontent.com/ekNptKIhOH6thTtqLs-wBx10p4AvbV70t0GcJ4ZAAxj4oIWF7qxpc2WsalncsrtAySBq4elxqc36os69NRsoQUcgTTDd1d5TIfpDUsL9CUH9-fijioNdHIE-UtTmvJzhR2u9Fd7pX63RXsj3areI0CRVRD8v6pKL-l3z1A7ZRWA6HQ_7XfTAwYCSYw)
+##  [National Fraud Intelligence Bureau](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)
+![](https://lh3.googleusercontent.com/ekNptKIhOH6thTtqLs-wBx10p4AvbV70t0GcJ4ZAAxj4oIWF7qxpc2WsalncsrtAySBq4elxqc36os69NRsoQUcgTTDd1d5TIfpDUsL9CUH9-fijioNdHIE-UtTmvJzhR2u9Fd7pX63RXsj3areI0CRVRD8v6pKL-l3z1A7ZRWA6HQ_7XfTAwYCSYw)
 
 ##  [Financial Conduct Authority](https://www.fca.org.uk/) (UK)
 
