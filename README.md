@@ -2,7 +2,9 @@
 
 Cryptocurrency scam, fraud and theft reporting list.
 
-## Private Sector Platforms
+## Contents
+
+**Private Sector Platforms**
 
 + [Greysafe](https://greysafe.com)
 + [Chainabuse](https://chainabuse.com)
@@ -11,21 +13,21 @@ Cryptocurrency scam, fraud and theft reporting list.
 + [Bitcoin Abuse DB](https://www.bitcoinabuse.com/)
 + [Crypto Scam DB](https://cryptoscamdb.org/)
 
-## Government Enforcement Platforms
+**Government Platforms**
 
--   [Action Fraud (UK Police)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
--   [Federal Trade Commission(US)](https://consumer.ftc.gov/scams)
--   [Commodities Futures Trading Commission](https://www.cftc.gov/check) (US)
--   [U.S. Securities and Exchange Commission](https://www.sec.gov/) (US)
--   [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice) (US)
--   [Citizens Advice Bureau](https://www.citizensadvice.org.uk/) (UK)
--   [National Cyber Security Centre](https://www.ncsc.gov.uk/) (UK)
--   [National Fraud Intelligence Bureau (](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)UK)
--   [Financial Conduct Authority ](https://www.fca.org.uk/)(UK)
+-   [Action Fraud (UK)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
+-   [Federal Trade Commission (US)](https://consumer.ftc.gov/scams)
+-   [Commodities Futures Trading Commission (US)](https://www.cftc.gov/check) 
+-   [U.S. Securities and Exchange Commission (US)](https://www.sec.gov/)
+-   [FBI Internet Crime Complaint Center (US)](https://www.ic3.gov/Home/ComplaintChoice)
+-   [Citizens Advice Bureau (UK)](https://www.citizensadvice.org.uk/)
+-   [National Cyber Security Centre (UK)](https://www.ncsc.gov.uk/)
+-   [National Fraud Intelligence Bureau (UK)](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)
+-   [Financial Conduct Authority (UK)](https://www.fca.org.uk/)
 
-## Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.
+### Disclaimer: You won't get your money back, the goal here is to help others not lose theirs.
 
--   [Greysafe](https://greysafe.com)
+## [Greysafe](https://greysafe.com)
 
 GreySafe is a community-driven crypto threat actor reporting service that takes submissions from all chains and focuses on validating and attributing them accurately.
 |                |                                                                                                       |
@@ -39,7 +41,7 @@ GreySafe is a community-driven crypto threat actor reporting service that takes 
 
 ![](https://lh5.googleusercontent.com/54nyKPPPko5rqByrvwndKeRaDqolXHi2If6vnyFwJaYjqXBVCKtchOjPu4S16l9jx9fM5em4CipyCL1BfuMGQ5qxVZp0gRZWH8KPH0UrH_Esxarkl8K8nQXiGozkiM-PRqNR-2Yv6dycBLzOuLXWHo0aTH9hiimh17w84NGXg73o0tW0MIj_kUugtA)
 
--   [Chainabuse](https://www.chainabuse.com/)
+## [Chainabuse](https://www.chainabuse.com/)
 
 Chainabuse is a multi-chain community on a mission to enable a safer web3 space and build the largest trust network in crypto around the globe.
 
@@ -54,7 +56,7 @@ Chainabuse is a multi-chain community on a mission to enable a safer web3 space 
 
 ![](https://lh5.googleusercontent.com/EkcILHXeoaMZpaZiJ8FeUnTiGua-I9MZwSqvh1dEPtu8LuMxsPfS9MVGUooU85i9gww8lHqyMuZCIrbQokRmL_CR67nNi2zcuSuzmE9Dwg7ZLWY2ltO-LHvtZ7NXt_i29l3o8CZDgg4LQ8T3x67qOjF1CrrH2VnbZWr4qFOPTqIYfNNoG1SIWBttVQ)
 
--   [Scam Alert](https://scam-alert.io/)
+## [Scam Alert](https://scam-alert.io/)
 
 A powerful and popular blockchain analytics engine that tracks and analyzes millions of blockchain transactions every day
 
@@ -69,7 +71,7 @@ A powerful and popular blockchain analytics engine that tracks and analyzes mill
 
 ![](https://lh4.googleusercontent.com/IDYTwH-spUNhX8TbYYOEIjOjuZqPkg5AiiqXQJiyYOdk0jNyshsyuxN2O4grSCl6FgEmupR7SwuFMnN_stWFBVtROfmPeQohzy9DRQ0kw6AQD9MV_x1Hw4DPf2_vvlZK9PQJrPgVgeYE6vmra93vcZGnl7y5_elrezMjLMaQbuVquWrqngCuEQSKzw)
 
--   [Scan Blocks](https://scanblocks.io/index)
+## [Scan Blocks](https://scanblocks.io/index)
 
 Lookup a blockchain address to verify it is not associated with a known scammer, hacker, ransomware, blackmailer or fraudster BEFORE you send funds to it.
 
@@ -84,7 +86,7 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 ![](https://lh5.googleusercontent.com/m0FY9D9-edweQNO4ZACjLWkxNMvw_K1oc0JYLfa7UPDJjD9Gze8ryovDD9I0_G9g2W2q3KWWHgRbzLLsZHMDCpCXCN9tyJWy7El-_bF3vUVpCUXXCQ1Zds8ciaVjF7_XGwxn1t1zMTUuDntAyyoZj5Vm_C3wNy3DpC4VDKwUSIU24a3AJBXPk3ubQQ)
 
--   [Bitcoin Abuse Database](https://www.bitcoinabuse.com/)
+## [Bitcoin Abuse Database](https://www.bitcoinabuse.com/)
 
 |                |                                                                                                        |
 |----------------|--------------------------------------------------------------------------------------------------------|
@@ -97,7 +99,7 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 ![](https://lh5.googleusercontent.com/kUM09KSpGtcBWcFOdm1sjOwRKsbhvw3r2n3SjOPvX1MXilu52XEavaqq_pHMwvTuB6bfNTjdxoLEPK9l4fNuu2KQYYsNYMFY8sqQMlZ2GfQIdKEg0VYpAY0o-fBhLFOysLjErOZwnV1ikOjAprh4nLNLsyBqFgLDHxJ7L8JPPUB-i3L9RJTyT16t5g)
 
--   [CryptoScamDB](https://cryptoscamdb.org/)
+## [CryptoScamDB](https://cryptoscamdb.org/)
 
 |                |                                                                                                                                                                                                                                           |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -110,7 +112,7 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 ![](https://lh5.googleusercontent.com/u3WxRMH7IQf1nY_UGSMTyH6w5lIyz4bx4p1oNgMUNNksY9GEDwbhidQsKZZ7JlV3wKpJ-rcMNnRKReJJZffB9bxsuQcnM-SWUP761jqa5NZoGXoGOxoaDsFh2VDheNE6YPiU3Gh1WEXN_5W_8rIGnhunUC1Y5FNNFWBI8LeLPL_D_DYpIaqNkyTyVQ)
 
--   Crypto Blacklist
+## [Crypto Blacklist](https://www.cryptoblacklist.io/)
 
 |                |                                                            |
 |----------------|------------------------------------------------------------|
@@ -123,7 +125,7 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 ![](https://lh6.googleusercontent.com/3FyKNTLwY7icpJJ6PlTwkOORwtuKpROgl7ndb1MTvcCtcgdBADIrPcRv7Yj1722A4y0n4muuNbQbn_DyyxwdGifwKCtjfpIJKkfzwc-PAA_LQApMM1H3cRxRUaE0xWf_cAFfCnab5eXmiFjTcWBcrvMuKN1f8cBJFE4ydWv_lLnCWmPHFLveichCkw)
 
--   WebRekt
+## [WebRekt](https://www.web3rekt.com/)
 
 |                |                                                                                                              |
 |----------------|--------------------------------------------------------------------------------------------------------------|
@@ -136,38 +138,37 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 
 ![](https://lh3.googleusercontent.com/6lo9xSjpCxZF_Qd0jUurEkY2r_6nmmN0MgW9Wc8-y0NoBLhcDYZYxj7TcjWnfjkSVLo9KAdYssE2oizlH8v6rCBGx_RHeB2OFB1MbWes6ub_BSw9SJPR_zym4Vny2KgsNm7JUdCEWKNX--9Kc2oo-3Fyb7jHvtVtjTHYR2rkcDV5T4eQDdXDGRt-Rw)
 
-Enforcement
 
--   [Action Fraud (UK Police)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
+## [Action Fraud (UK Police)](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime)
 
 ![](https://lh4.googleusercontent.com/6G45wcU2zVEVdvZv-bjXIxvff8cOCYMR1evG_xeXe8ZIsLn7H2K2mdCHBLfxEnrGDseZAKMhk5NAkvsF8NRXvW3WJvsQBX5KE0nmMqN9Mhy7D7qrenySumbutRos23UE6xiuuJ3YX1ZIulNVH9rNxfcPFjAWlRJB5LyTKHw6twxxuPUS8WJs6SZIOQ)
 
--   [Federal Trade Commission(US)](https://reportfraud.ftc.gov/#/assistant)
+## [Federal Trade Commission(US)](https://reportfraud.ftc.gov/#/assistant)
 
 ![](https://lh5.googleusercontent.com/_PWjF-RguqJOX4jWRHfJctd7dTntCGLUyqLVJqVlrBBrdn295O6l9U0XGKxU7XFw9IDw8BpyHSx7cXZklb64mS7w2ux9Ktiu2D_A26MeMtT2IAXHoeacuYmSwTXjCpuJwjGruXN9j4OjYXVi-EKnAEa-ySj0IO6vVNMlCp48dA_uLulOR_U7aDnuRg)
 
 ![](https://lh3.googleusercontent.com/75sck87GhoZ-vfAOUnKrO_Npo2u1H3sgDsJNilHUGqXw7mol5RYMVkkipDMyrV4g7C1eo6lsifWN6OyiEOTgAyLOIUildvW5Fi62JeP_DtlmqUkqyS1WcI2pfEBk8Vc8zlTW1HN_JLmLg97QmL2wXsSPmls-pQELdLMGbL9jfiwIBV1cJVuz0hRkYA)
 
--   [Commodities Futures Trading Commission](https://www.cftc.gov/check) (US)
+## [Commodities Futures Trading Commission](https://www.cftc.gov/check) (US)
 
 ![](https://lh4.googleusercontent.com/LOIkLZFj4G5u0qbHmKR3PsFqR5bCzdo4aT59DrY5nYEBDlJjl325kREhA-ugKRWlMXsHuH4JLJpLhOci4I8g9cvFcqzW9M81QXHtqqGUnUG8wnEOE4795mL8uYY5U51ndsihrQHvbDUCiFLnTYC1SZZR_DNHupQ20Cm_AGHlCT2-SCO4Wg8XwzjUNA)
 
--   [U.S. Securities and Exchange Commission](https://tcr.sec.gov/TcrExternalWeb/faces/pages/tip-info.jspx) (US)
+## [U.S. Securities and Exchange Commission](https://tcr.sec.gov/TcrExternalWeb/faces/pages/tip-info.jspx) (US)
 
 ![](https://lh6.googleusercontent.com/UdPH5IDcO6VcX1FfmJ6KMbmldd6uPYro-ihmBumgPZ8KMP3HtqUnZ2BoVDXjks-s51b3MTqS9-xDOMflotzda12DFqix0pZtF5e1tQmlbankKo_ebIfUpMN2gTRC3-RVadENfcC7e5Wq6QPXX0GR3c7DMtdi-8UJnU9U4YwO0eLoVCZd3eOfqHcIlA)
 
--   [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice) (US)
+## [FBI Internet Crime Complaint Center](https://www.ic3.gov/Home/ComplaintChoice) (US)
 
 ![](https://lh3.googleusercontent.com/UDyLZ9kajgUsYoNnZef3V_s9aV6skSD2g8Nmrvquw5bgfVhXao3kK0aCg-zbS0GzApvZonuWwhEhlfHZ1j4VTVfiKSFlpJH-heqBqZpUHkI0f4OERTJV_ADBOqH0x5I5mRODmrG009uFYMIAW_fBBc1IcHotRA9cUNnnZEufKGKMhE1AIEwiBojsOA)
 
--   [Citizens Advice Bureau](https://ssl.datamotion.com/form.aspx?co=3438&frm=scam&to=scamsaction) (UK)
+##  [Citizens Advice Bureau](https://ssl.datamotion.com/form.aspx?co=3438&frm=scam&to=scamsaction) (UK)
 
 ![](https://lh5.googleusercontent.com/RLR9M6sj18uHch82oWaIF4ONVSbjS9XyPYKokjObmWALGY9F6PCSPg6OIYsLd7b-AOzI0t0J_yT6CqKJTBpjuA4TWxsj0KPHbkprc2oCHQzNGrTiLZAA7M2OrZ8OiUYpSUsN-RQ2C60wZsqU6m0mntOPFUYnOQ5BA3YtMKnlKlG_nkvOnI12ufm1Eg)
 
--   [National Cyber Security Centre](https://www.ncsc.gov.uk/) (UK)![](https://lh3.googleusercontent.com/-Vox88yzEbaYDLtQ-4Y_Lbaa-2EtoXGLl5n--iACa0Q0WBFQfkX7_M397G2TApwia_ugcSR1yKtMkf5sFxV8VVZdwLMiXY4-kTt3mbkqLVvEviZEzTHAhNidSTFiSdtJiHZN5FlPb0LubEWZ7Iiqrk0dmFxHrBXB1HcY34BJVrT7sp2sj-L36DOwvw)
+##  [National Cyber Security Centre](https://www.ncsc.gov.uk/) (UK)![](https://lh3.googleusercontent.com/-Vox88yzEbaYDLtQ-4Y_Lbaa-2EtoXGLl5n--iACa0Q0WBFQfkX7_M397G2TApwia_ugcSR1yKtMkf5sFxV8VVZdwLMiXY4-kTt3mbkqLVvEviZEzTHAhNidSTFiSdtJiHZN5FlPb0LubEWZ7Iiqrk0dmFxHrBXB1HcY34BJVrT7sp2sj-L36DOwvw)
 
--   [National Fraud Intelligence Bureau (](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)UK)![](https://lh3.googleusercontent.com/ekNptKIhOH6thTtqLs-wBx10p4AvbV70t0GcJ4ZAAxj4oIWF7qxpc2WsalncsrtAySBq4elxqc36os69NRsoQUcgTTDd1d5TIfpDUsL9CUH9-fijioNdHIE-UtTmvJzhR2u9Fd7pX63RXsj3areI0CRVRD8v6pKL-l3z1A7ZRWA6HQ_7XfTAwYCSYw)
+##  [National Fraud Intelligence Bureau (](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)UK)![](https://lh3.googleusercontent.com/ekNptKIhOH6thTtqLs-wBx10p4AvbV70t0GcJ4ZAAxj4oIWF7qxpc2WsalncsrtAySBq4elxqc36os69NRsoQUcgTTDd1d5TIfpDUsL9CUH9-fijioNdHIE-UtTmvJzhR2u9Fd7pX63RXsj3areI0CRVRD8v6pKL-l3z1A7ZRWA6HQ_7XfTAwYCSYw)
 
--   [Financial Conduct Authority](https://www.fca.org.uk/) (UK)
+##  [Financial Conduct Authority](https://www.fca.org.uk/) (UK)
 
 ![](https://lh4.googleusercontent.com/5QGVJL2msSgxk9F7ZTttqFY40yTZgyF6vefB4rRgNHueqd0ClhJOipr37ZLaSUCqKcNuOpzFfcdctD0yQfRwdxrJKjw0BOz6CkM8i8tbiN_7woS57suemQRIMZKHVSiAWUvpDJYqrEk0I2HtoOrTjEHNLCxbRWbj-OJE44U0A5cuiZqfdgRNoAOzWg)
