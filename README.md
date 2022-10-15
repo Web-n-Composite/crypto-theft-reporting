@@ -166,6 +166,6 @@ Lookup a blockchain address to verify it is not associated with a known scammer,
 ##  [National Fraud Intelligence Bureau](https://www.actionfraud.police.uk/what-is-national-fraud-intelligence-bureau)
 ![](https://lh3.googleusercontent.com/ekNptKIhOH6thTtqLs-wBx10p4AvbV70t0GcJ4ZAAxj4oIWF7qxpc2WsalncsrtAySBq4elxqc36os69NRsoQUcgTTDd1d5TIfpDUsL9CUH9-fijioNdHIE-UtTmvJzhR2u9Fd7pX63RXsj3areI0CRVRD8v6pKL-l3z1A7ZRWA6HQ_7XfTAwYCSYw)
 
-##  [Financial Conduct Authority](https://www.fca.org.uk/) (UK)
+##  [Financial Conduct Authority](https://www.fca.org.uk/)
 
 ![](https://lh4.googleusercontent.com/5QGVJL2msSgxk9F7ZTttqFY40yTZgyF6vefB4rRgNHueqd0ClhJOipr37ZLaSUCqKcNuOpzFfcdctD0yQfRwdxrJKjw0BOz6CkM8i8tbiN_7woS57suemQRIMZKHVSiAWUvpDJYqrEk0I2HtoOrTjEHNLCxbRWbj-OJE44U0A5cuiZqfdgRNoAOzWg)
