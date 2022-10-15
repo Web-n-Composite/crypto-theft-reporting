@@ -35,7 +35,7 @@ GreySafe is a community-driven crypto threat actor reporting service that takes 
 | Website        | https://greysafe.com                                                                                  |
 | Socials        | https://twitter.com/thegreysafe https://discord.gg/u3WZnmFAvF https://www.reddit.com/r/scam_radar     |
 | File a report  | https://greysafe.com/file_report                                                                      |
-| Database Size  | 123k                                                                                                  |
+| Database Size  | 131k                                                                                                  |
 | Owner          | Blackworks.io                                                                                         |
 | Review Process | Submitted data is made available to law enforcement, governments, journalists and the general public. |
 
