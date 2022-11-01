@@ -3,6 +3,7 @@
 Cryptocurrency scam, fraud and theft reporting list.
 
 **You won't get your money back, the goal here is to help others not lose theirs.**
+![Risk reporting 1](https://user-images.githubusercontent.com/114734003/199210733-5742b76f-84ef-4316-b9ae-7484b21433e0.jpg)
 
 ## Contents
 
