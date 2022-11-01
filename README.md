@@ -1,3 +1,5 @@
+![Webncomposite Logo-01](https://user-images.githubusercontent.com/114734003/199211508-77af79b3-8480-49f4-99ba-a634ff02547b.jpg)
+
 # Cryptocurrency Theft, Fraud and Scam Reporting Services
 
 Cryptocurrency scam, fraud and theft reporting list.
